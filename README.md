@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Stopper
+- 🌱 I’m currently learning JS
+- 📫 Discord: Stopper#1631
